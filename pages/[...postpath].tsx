@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://en.technomedia.in/how-to-save-money-on-car-insurance/?utm_source=viki&utm_medium=RAS98&utm_campaign=RAS98`
+					`https://en.aryahindi.in/what-are-the-funding-strategies-for-startups/?utm_source=WafaShoNa23&utm_medium=SS_Pro&utm_campaign=SS_Pro`
 				}`,
 			},
 		};
